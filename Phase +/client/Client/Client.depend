@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1576940145 source:e:\university\term 1\fop\project\client\main.c
+	<stdio.h>
+	<winsock2.h>
+	"cJSON.h"
+	"cJSON.c"
+	<string.h>
+
+1423841002 e:\university\term 1\fop\project\client\cjson.h
+
+1423841090 e:\university\term 1\fop\project\client\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1580297646 source:e:\university\term 1\fop\project\phase 1\client\main.c
+	<stdio.h>
+	<winsock2.h>
+	"cJSON.h"
+	"cJSON.c"
+	<string.h>
+
+1423841002 e:\university\term 1\fop\project\phase 1\client\cjson.h
+
+1423841090 e:\university\term 1\fop\project\phase 1\client\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1580503351 source:e:\university\term 1\fop\project\phase 3\phase 1\client\main.c
+	<stdio.h>
+	<winsock2.h>
+	"cJSON.c"
+	<string.h>
+
+1580503941 e:\university\term 1\fop\project\phase 3\phase 1\client\cjson.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1580581798 source:e:\university\term 1\fop\project\phase +\c\client\main.c
+	<stdio.h>
+	<winsock2.h>
+	"cJSON.c"
+	<string.h>
+
+1580503941 e:\university\term 1\fop\project\phase +\c\client\cjson.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
